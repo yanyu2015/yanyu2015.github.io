@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yanyu2015.github.io</id>
     <title>Gridea</title>
-    <updated>2021-09-10T16:32:59.081Z</updated>
+    <updated>2021-09-11T01:28:08.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yanyu2015.github.io"/>
     <link rel="self" href="https://yanyu2015.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://yanyu2015.github.io/images/avatar.png</logo>
     <icon>https://yanyu2015.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://yanyu2015.github.io/post/guan-yu-wo/</id>
+        <link href="https://yanyu2015.github.io/post/guan-yu-wo/">
+        </link>
+        <updated>2021-09-11T01:20:31.000Z</updated>
+        <content type="html"><![CDATA[<p>某不知名学校经济类博士在读，日常较忙，更新较慢<br>
+无以家为——苍茫大海，旅鼠他来！<br>
+Que sera, sera，Whatever will be, will be。<br>
+人生经历坎坷之后，终于幸存下来，带着不安和希望，继续努力 ！</p>
+<h3 id="我的老博客">我的老博客</h3>
+<p>https://www.cnblogs.com/xuanlvshu/</p>
+<h3 id="我的思源笔记推荐码良心推荐">我的思源笔记推荐码(良心推荐)</h3>
+<p>思源笔记：https://b3log.org/siyuan/<br>
+我的推荐码: C93YWrS<br>
+知乎等等就不放啦~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QR分解与OLS回归系数求解(R & matlab)]]></title>
         <id>https://yanyu2015.github.io/post/qr-fen-jie-yu-ols-hui-gui-xi-shu-qiu-jie-r-and-matlab/</id>
