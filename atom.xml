@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yanyu2015.github.io</id>
+    <title>提灯</title>
+    <updated>2024-05-12T15:26:17.931Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yanyu2015.github.io"/>
+    <link rel="self" href="https://yanyu2015.github.io/atom.xml"/>
+    <subtitle>命如野草，一路生花</subtitle>
+    <logo>https://yanyu2015.github.io/images/avatar.png</logo>
+    <icon>https://yanyu2015.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 提灯</rights>
+    <entry>
+        <title type="html"><![CDATA[我的学术CV]]></title>
+        <id>https://yanyu2015.github.io/post/wo-de-xue-zhu-cv/</id>
+        <link href="https://yanyu2015.github.io/post/wo-de-xue-zhu-cv/">
+        </link>
+        <updated>2024-05-12T13:48:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彻底解决C盘容量太小的问题]]></title>
+        <id>https://yanyu2015.github.io/post/che-di-jie-jue-c-pan-rong-liang-tai-xiao-de-wen-ti/</id>
+        <link href="https://yanyu2015.github.io/post/che-di-jie-jue-c-pan-rong-liang-tai-xiao-de-wen-ti/">
+        </link>
+        <updated>2021-09-13T08:28:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[linux下R和Rstudio安装和配置、以及Rglpk包的安装]]></title>
+        <id>https://yanyu2015.github.io/post/linux-xia-r-he-rstudio-an-zhuang-he-pei-zhi-yi-ji-rglpk-bao-de-an-zhuang/</id>
+        <link href="https://yanyu2015.github.io/post/linux-xia-r-he-rstudio-an-zhuang-he-pei-zhi-yi-ji-rglpk-bao-de-an-zhuang/">
+        </link>
+        <updated>2021-09-11T01:59:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://yanyu2015.github.io/post/guan-yu-wo/</id>
+        <link href="https://yanyu2015.github.io/post/guan-yu-wo/">
+        </link>
+        <updated>2021-09-11T01:20:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QR分解与OLS回归系数求解(R & matlab)]]></title>
+        <id>https://yanyu2015.github.io/post/qr-fen-jie-yu-ols-hui-gui-xi-shu-qiu-jie-r-and-matlab/</id>
+        <link href="https://yanyu2015.github.io/post/qr-fen-jie-yu-ols-hui-gui-xi-shu-qiu-jie-r-and-matlab/">
+        </link>
+        <updated>2021-09-10T16:23:37.000Z</updated>
+    </entry>
+</feed>
